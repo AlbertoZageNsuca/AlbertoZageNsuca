@@ -5,7 +5,7 @@
 
 ---
 
-## Technologies
+## Skills
 
 #### Front-end
 
@@ -44,8 +44,8 @@
 
 ## Contact
 
-<a href="https://instagram.com/[your-username]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:[your@email.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://instagram.com/zagealberto"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:zagealberto02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 
